@@ -39,7 +39,7 @@ Mi especialidad es el desarrollo Back-End, aunque también me muevo bien en el F
 ### 📬 ¿Charlamos?
 Si te interesa conectar, colaborar o simplemente intercambiar ideas sobre tecnología, APIs o proyectos:
 
-- LinkedIn: [Lucio Moran](www.linkedin.com/in/lucio-moran-9561ab24a)
+- LinkedIn: www.linkedin.com/in/lucio-moran-9561ab24a
 - Email: luciovalentinam@gmail.com
 
 ---
