@@ -41,6 +41,7 @@ Si te interesa conectar, colaborar o simplemente intercambiar ideas sobre tecnol
 
 - LinkedIn: www.linkedin.com/in/lucio-moran-9561ab24a
 - Email: luciovalentinam@gmail.com
+- Segundo Email: 
 
 ---
 
